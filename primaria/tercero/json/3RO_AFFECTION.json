@@ -1,0 +1,51 @@
+{
+    "total": 24,
+    "dispositivos": {
+        "Celular / Smartphone": 15,
+        "Tablet": 9,
+        "Laptop": 7,
+        "Computadora de escritorio": 5,
+        "Ninguno": 4,
+        "Consola de videojuegos": 4,
+        "Televisión": 1
+    },
+    "horas": {
+        "1 a 2 horas": 12,
+        "3 a 4 horas": 5,
+        "Menos de 1 hora": 4,
+        "5 horas o más": 3
+    },
+    "uso": {
+        "Ver videos": 19,
+        "Jugar": 18,
+        "Hacer tareas": 17,
+        "Aprender cosas nuevas": 10,
+        "Redes sociales": 6
+    },
+    "estudio": {
+        "A veces": 17,
+        "Siempre": 5,
+        "Nunca": 1,
+        "Casi nunca": 1
+    },
+    "redes": {
+        "YouTube": 22,
+        "TikTok": 10,
+        "WhatsApp": 7,
+        "Facebook": 4,
+        "Instagram": 2
+    },
+    "horas_redes": {
+        "1 a 2 horas": 15,
+        "5 horas o más": 4,
+        "Menos de 1 hora": 3,
+        "3 a 4 horas": 2
+    },
+    "uso_redes": {
+        "Ver videos": 15,
+        "Hablar con amigos": 10,
+        "Entretenimiento": 8,
+        "Aprender cosas nuevas": 5,
+        "Compartir fotos": 3
+    }
+}
