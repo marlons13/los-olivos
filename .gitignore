@@ -1,0 +1,30 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Flask
+instance/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Variables de entorno
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
